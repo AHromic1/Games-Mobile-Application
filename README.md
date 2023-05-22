@@ -1,5 +1,7 @@
 # Games-Mobile-Application
 
+*This is outdated version, the newest refactor is on the main branch.*
+
 This is a mobile application written in Kotlin, in Android Studio, for the course Mobile Apps Development. 
 The project is developed using 4 spirals (currently I am refactoring the code within the spiral 3, in order to add services). 
 In spiral 1 intents and button listeners are demonstrated, as well as creation of a suitable layout. 
